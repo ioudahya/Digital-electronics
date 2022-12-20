@@ -1,6 +1,6 @@
 # electronics-with-psoc
 
-# what to do 
+# What to do 
 
 ![image](https://user-images.githubusercontent.com/44835548/208648176-f7843be6-94c6-4a3c-b8a1-7575c27f02ab.png)
 
